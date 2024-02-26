@@ -9,10 +9,10 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `A2 Consórcios`,
+    description: `Negociação, avaliação, assessoramento e compra e venda de consórcios contemplados e não contemplados.`,
+    author: `@a2consorcios`,
+    siteUrl: `https://a2consorcios.com.br/`,
   },
   plugins: [
     `gatsby-plugin-image`,
